@@ -1,0 +1,10 @@
+node_modules
+.vscode
+.idea
+client
+*.log
+/debug.log
+debug.log
+logs/ 
+.DS_Store
+thumbs.db
